@@ -1,0 +1,20 @@
+{
+    "carros":[
+        {
+            "id": 3,
+            "marca": "Fiat",
+            "nome": "Uno"
+        },
+        {
+            "marca": "Audi",
+            "nome": "rx7",
+            "id": 4
+        },
+        {
+            "nome": "Aventador",
+            "marca": "Lambo",
+            "id": 5
+            
+        }
+    ]
+}
